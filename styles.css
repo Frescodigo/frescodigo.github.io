@@ -1,4 +1,17 @@
 body {
+    margin: 0px;
+    width: 100vw;
+    height: 100vh;
     justify-content: center;
-    text-align: center;
+}
+
+h1 {
+    margin: 0px auto;
+    width: 10rem;
+    font-size: 4rem;
+}
+
+#name {
+    width: auto;
+    justify-content: center;
 }
